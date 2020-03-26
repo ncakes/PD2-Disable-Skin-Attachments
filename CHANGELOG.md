@@ -1,5 +1,11 @@
 # Changelog
 
+## v1.2
+
+*2020-03-26 - Update 199 Mark II Hotfix 2*
+
+- Reworked method for validating weapon modifications for compatibility with latest update.
+
 ## v1.1
 
 *2020-01-02 - Update 199*
